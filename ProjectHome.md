@@ -1,0 +1,1 @@
+Users will be able to assign system wide keyboard shortcuts using this python module inside their applications written using Python.
